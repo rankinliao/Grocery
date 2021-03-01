@@ -1,14 +1,23 @@
 ## Welcome to GitHub Pages
 
 [Shop Groceries](Shop-Groceries.html)
+
 [Checkout Groceries](Checkout-Groceries.html)
+
 [Refuel](Refuel.html)
+
 [Dine in](Dine-in.html)
+
 [Payphone](Payphone.html)
+
 [Print](Print.html)
+
 [Complain](Complain.html)
+
 [Verify Age](Verify-Age.html)
+
 [Supply of goods](Supply-Of-Goods.html)
+
 [Hire employees](Hire-Employees.html)
 
 You can use the [editor on GitHub](https://github.com/rankinliao/Grocery/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
